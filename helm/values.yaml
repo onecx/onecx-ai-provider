@@ -6,8 +6,8 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX AI Management"
+      description: "OneCX AI Provider"
       imageUrl: ""
       iconName: "lock"
-      displayName: "OneCX AI Management"
-      basePath: "/ai-management"
+      displayName: "OneCX AI Provider"
+      basePath: "/ai-provider"
