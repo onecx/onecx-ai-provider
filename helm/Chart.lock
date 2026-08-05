@@ -7,12 +7,12 @@ dependencies:
   version: 0.0.0-rc.45
 - name: onecx-ai-provider-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.39
+  version: 0.0.0-rc.40
 - name: onecx-ai-provider-runtime
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.6
 - name: onecx-ai-provider-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.46
-digest: sha256:37524b0ad3fc7062291920357df6e6f7a4f89b6cecefdca471093343fe5d0eeb
-generated: "2026-08-05T07:07:30.954930285Z"
+digest: sha256:7a7870bb83f455ed837ea8bfeb705b3050c387763eb880d6cb2bd3f756157655
+generated: "2026-08-05T17:30:44.488632813Z"
