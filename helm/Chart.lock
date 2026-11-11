@@ -13,6 +13,6 @@ dependencies:
   version: 0.2.0-rc.3
 - name: onecx-ai-provider-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.74
-digest: sha256:693dad413f146b537e8863fa5736231c8ebcdba74a035713c1b85388af634bd9
-generated: "2026-11-11T08:25:40.120216781Z"
+  version: 0.0.0-rc.75
+digest: sha256:fc399259668f7cf203df1b7d0bdae89aa30fea8f69ed4b6b2e280b5bea17c107
+generated: "2026-11-11T13:30:07.333915234Z"
