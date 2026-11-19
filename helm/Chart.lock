@@ -4,7 +4,7 @@ dependencies:
   version: 0.4.0
 - name: onecx-ai-provider-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.81
+  version: 0.0.0-rc.82
 - name: onecx-ai-provider-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.67
@@ -14,5 +14,5 @@ dependencies:
 - name: onecx-ai-provider-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.78
-digest: sha256:5342db62a3f66fd0109aa866a48b2c27c1327d25114f30e300b0838906b9b914
-generated: "2026-11-17T12:40:18.130461625Z"
+digest: sha256:14517b3408790124646abc8d8e71dd97d4146e32b5cd2dc4004091513f31fdab
+generated: "2026-11-19T06:26:23.973242603Z"
